@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h1 {
+      text-align: center;
+      color: aquamarine;
+      padding: 10px 20px;
+  }
+  .center_text {
+      text-align: center;
+      color: cadetblue;
+      padding: 10px 20px;
+  }
+  #firstn {
+      background-color: cornsilk;
+  }
+  #lastn {background-color: cornsilk}
+
+  .nav_bar {
+      background-color: deepskyblue;
+      color: black;
+      text-align: right;
+      word-spacing: 50px;
+  }
+
+  .image {
+      width: 100%;
+          
+  }
+
+  
+  .bottom_page {
+      background-color: darkseagreen;
+      border: darkgreen ;
+      padding-top: 50px;
+
+  }
